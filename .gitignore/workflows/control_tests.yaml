@@ -1,5 +1,5 @@
 name: Control Push
-on: push
+on: [push]
 jobs:
   qa:
     name: Check tests
